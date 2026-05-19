@@ -1,3 +1,7 @@
+# Robotic Arm
+
+![Project Preview](preview.png)
+
 A 3DOF robotic arm project built with **MATLAB** and **Arduino Uno** to simulate and control a servo-based robot arm that can draw a square trajectory in 3D space.
 
 ## Project Overview
@@ -136,5 +140,7 @@ You need:
 
 1. Open the MATLAB script.
 2. Make sure the Arduino port is correct:
+
    ```matlab
    a = arduino('COM5','Uno','Libraries','Servo');
+   ```
