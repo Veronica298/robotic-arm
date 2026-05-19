@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = """# Robotic Arm Square Drawing Project
-
 A 3DOF robotic arm project built with **MATLAB** and **Arduino Uno** to simulate and control a servo-based robot arm that can draw a square trajectory in 3D space.
 
 ## Project Overview
